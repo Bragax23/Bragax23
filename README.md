@@ -13,16 +13,12 @@
   Sobre mim 🧑‍💻
 </h1>
 
-javascript
-export default {
-  name: 'Lucas Braga Santos';
-  from: 'Açailândia, MA, Brasil',
-  profession: 'Desenvolvedor Web Full Stack',
-  hobbies: ['Ciclismo', 'Cinema', 'Literatura', 'Games', 'Animes'],
-  email: ('andre.horman1994@hotmail.com', 'andrehormandev@gmail.com');
-  linkedin: 'https://www.linkedin.com/in/andrehorman';
-  curriculum: 'https://resume.io/r/5XOjVWyDz';
-  portfolio: 'https://portfolio-andre-horman.vercel.app';
+## 🚀 Sobre Mim
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**.
+- 💼 Trabalho como **[Técinico em Segurança Eletronica]** em **[Grupo Golphe]**.
+- 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
+- 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
+
   }
   description: {
     myProfile: `Olá! Meu nome é André, tenho 28 anos e sou formado em Desenvolvimento Web Full Stack
