@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
 
 <h1 align="center">
-  Hello World 👋
+  Bem vindo/a 👋
 </h1>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  About Me 🧑‍💻
+  Sobre mim 🧑‍💻
 </h1>
 
 javascript
