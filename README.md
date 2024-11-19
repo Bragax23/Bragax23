@@ -19,15 +19,14 @@
 - 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
 - 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
 
-  }
-  description: {
-    myProfile: `Olá! Meu nome é André, tenho 28 anos e sou formado em Desenvolvimento Web Full Stack
-      pela escola Trybe. Iniciei meus estudos em meados de 2020 e desde então me apaixonei pela área
-      de tecnologia. 💚 Após uma grande transição de carreira, tive o prazer de atuar como instrutor
-      de tecnologia Front End durante dois anos, auxiliando e educando estudantes no campo do 
-      desenvolvimento web.`,
-    myObjective: `Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor Full Stack,
-      com o objetivo de obter novas experiências que possam contribuir para meu futuro. 🚀`,
+ ## 🛠️ Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
   },
   skills: {
     languages: [
