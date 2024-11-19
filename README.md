@@ -104,19 +104,6 @@
            alt="python"
          />
       </a>
-      <a href="https://www.mongodb.com/docs/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-           alt="mongodb"
-         />
-      </a>
-      </a>
-      <a href="https://www.docker.com/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-           alt="docker"
-         />
-      </a>
       <a href="https://www.linux.org/" target="_blank">
         <img
            src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
@@ -141,14 +128,14 @@
 
 <div align="center">
   <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDREHORMAN1994&theme=tokyonight&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bragax23&theme=tokyonight&layout=compact" alt="Top Languages">
   
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDREHORMAN1994&show_icons=true&theme=tokyonight" alt="GitHub Stats of ANDREHORMAN1994">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bragax23&show_icons=true&theme=tokyonight" alt="GitHub Stats of ANDREHORMAN1994">
   
   <h3>GitHub Streak</h3>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ANDREHORMAN1994&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
     alt="ANDREHORMAN1994"
   >
 </div>
