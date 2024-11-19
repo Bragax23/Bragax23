@@ -15,15 +15,14 @@
 
 ## 🚀 Sobre Mim
 - Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMa Campus Açailândia.
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java, Python e GitHub]**.
-- 💡 Tenho interesse em **[áreas de interesse, Web Desener, Desenvolvedor de aplicativos e softwares]**.
-- 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java e Python ]**.
+- 💡 Tenho interesse em **[Web Designer, Desenvolvedor de aplicativos e softwares]**.
+
 
  ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
