@@ -14,9 +14,9 @@
 </h1>
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**.
-- 💼 Trabalho como **[Técinico em Segurança Eletronica]** em **[Grupo Golphe]**.
-- 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
+- Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMa Campus Açailândia.
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java, Python e GitHub]**.
+- 💡 Tenho interesse em **[áreas de interesse, Web Desener, Desenvolvedor de aplicativos e softwares]**.
 - 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
 
  ## 🛠️ Tecnologias e Ferramentas
