@@ -58,22 +58,12 @@
       />
     </a>
     <a
-      href="mailto:andrehormandev@gmail.com"
+      href="mailto:lucasbragasantos2001@gmail.com"
       target="_blank"
     >
       <img
         align="center"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="email"
-      />
-    </a>
-    <a
-      href="mailto:andre.horman1994@hotmail.com"
-      target="_blank"
-    >
-      <img
-        align="center"
-        src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
         alt="email"
       />
     </a>
@@ -106,11 +96,6 @@
            alt="javascript"
          />
       </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-           alt="typescript"
-         />
       </a>
       <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
         <img
@@ -125,29 +110,8 @@
          />
       </a>
       </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-           alt="react"
-         />
       </a>
-      <a href="https://angular.io/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-           alt="angular"
-         />
       </a>
-      <a href="https://redux.js.org" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-           alt="redux"
-         />
-      </a>
-      <a href="https://nextjs.org/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-           alt="nextjs"
-         />
       </a>
       <a href="https://nodejs.org" target="_blank">
         <img
