@@ -13,12 +13,12 @@
   About Me 🧑‍💻
 </h1>
 
-```javascript
+javascript
 export default {
-  name: 'André Horman de Medeiros Correia',
-  from: 'João Pessoa, PB, Brasil',
+  name: 'Lucas Braga Santos',
+  from: 'Açailândia, MA, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
-  hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
+  hobbies: ['Ciclismo', 'Cinema', 'Literatura', 'Games', 'Animes'],
   email: ['andre.horman1994@hotmail.com', 'andrehormandev@gmail.com'],
   linkedin: 'https://www.linkedin.com/in/andrehorman',
   curriculum:, 'https://resume.io/r/5XOjVWyDz',
@@ -54,8 +54,8 @@ export default {
       'Premiere', 'After Effects',
     ],
   },
-};
-```
+}
+
 
 <br/>
 
