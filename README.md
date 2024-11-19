@@ -23,9 +23,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
   
 
 <br/>
@@ -40,7 +39,7 @@
     class="connection-container"
   >
     <a
-      href="https://github.com/ANDREHORMAN1994"
+      href="https://github.com/Bragax23"
       target="_blank"
     >
       <img
@@ -76,16 +75,6 @@
         align="center"
         src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
         alt="email"
-      />
-    </a>
-    <a
-      href="https://wa.me/83993638760"
-      target="_blank"
-    >
-      <img
-        align="center"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        alt="whatsApp"
       />
     </a>
   </p>
