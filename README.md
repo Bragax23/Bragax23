@@ -123,52 +123,11 @@
            alt="linux"
          />
       </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-           alt="git"
-         />
       </a>
-      <a href="https://github.com/ANDREHORMAN1994" target="_blank">
+      <a href="https://github.com/Bragax23" target="_blank">
         <img
            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
            alt="github"
-         />
-      </a>
-      <a href="https://docs.aws.amazon.com/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
-           alt="aws"
-         />
-      </a>
-      <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-            alt="heroku"
-         />
-      </a>
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
-            alt="illustrator"
-         />
-      </a>
-      <a href="https://www.photoshop.com/en" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-            alt="photoshop"
-         />
-      </a>
-      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"
-            alt="premiere"
-         />
-      </a>
-      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"
-            alt="after effects"
          />
       </a>
     </p>
