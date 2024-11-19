@@ -27,30 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-  },
-  skills: {
-    languages: [
-      'Javascript', 'Python', 'Java',
-    ],
-    backend: [
-      'Node.js', 'Express', 'Sequelize',
-      'JWT', 'Sockets', 'MySQL', 'MongoDB',
-    ],
-    frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'Jest',
-      'React', 'Next', 'Redux', 'Context API',
-      'Hooks', 'RTL', 'Cypress',
-    ],
-    tools: [
-      'Git', 'Github', 'Heroku',
-    ],
-    designTools: [
-      'Illustrator', 'Photoshop',
-      'Premiere', 'After Effects',
-    ],
-  },
-}
-
+  
 
 <br/>
 
