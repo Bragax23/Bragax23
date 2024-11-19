@@ -19,11 +19,6 @@
 - 💡 Tenho interesse em **[Web Designer, Desenvolvedor de aplicativos e softwares]**.
 
 
- ## 🛠️ Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
   
 
@@ -109,39 +104,12 @@
            alt="python"
          />
       </a>
-      </a>
-      </a>
-      </a>
-      </a>
-      <a href="https://nodejs.org" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-           alt="nodejs"
-         />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img
-           src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-           alt="mysql"
-         />
-      </a>
       <a href="https://www.mongodb.com/docs/" target="_blank">
         <img
            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
            alt="mongodb"
          />
       </a>
-      <a href="https://www.cypress.io" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
-           alt="cypress"
-         />
-      </a>
-      <a href="https://jestjs.io" target="_blank">
-        <img
-           src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-           alt="jest"
-         />
       </a>
       <a href="https://www.docker.com/" target="_blank">
         <img
