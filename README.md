@@ -13,7 +13,7 @@
   Sobre mim 🧑‍💻
 </h1>
 
-- 🙋‍♂️ Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMa Campus Açailândia.
+- 🙋‍♂️ Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMA, Campus Açailândia.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java e Python ]**.
 - 💡 Tenho interesse em ciclismo ou algo que envolva aventura e adrenalina.
 
