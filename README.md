@@ -24,7 +24,7 @@
 <br/>
 
 <h1 align="center">
-  Connect with me: 👇
+  Fale comigo: 👇
 </h1>
 
 <section align="center">
@@ -61,7 +61,7 @@
 <br/>
 
 <h1 align="center">
-  Technologies and Tools 💡
+  Tecnologias e Ferramentas 💡
 </h1>
 
 <section>
@@ -117,7 +117,7 @@
 <br/>
 
 <h1 align="center">
-  Statistics 📈
+  Estatistícas 📈
 </h1>
 
 <div align="center">
@@ -125,11 +125,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bragax23&theme=tokyonight&layout=compact" alt="Top Languages">
   
   <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bragax23&show_icons=true&theme=tokyonight" alt="GitHub Stats of ANDREHORMAN1994">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bragax23&show_icons=true&theme=tokyonight" alt="GitHub Stats of Bragax23">
   
   <h3>GitHub Streak</h3>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
-    alt="ANDREHORMAN1994"
+    alt="Bragax23"
   >
 </div>
