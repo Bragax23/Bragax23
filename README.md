@@ -12,6 +12,7 @@
 <h1 align="center">
   Sobre mim 🧑‍💻
 </h1>
+
 - Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMa Campus Açailândia.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java e Python ]**.
 - 💡 Tenho interesse em **[Web Designer, Desenvolvedor de aplicativos e softwares]**.
@@ -42,7 +43,7 @@
       />
     </a>
     <a
-      href="https://www.linkedin.com/in/andrehorman/" target="_blank"
+      href="(https://www.linkedin.com/in/lucas-braga-santos-50690933a/)" target="_blank"
     >
       <img
         align="center"
