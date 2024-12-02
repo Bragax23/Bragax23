@@ -125,6 +125,13 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
     alt ="Bragax23"
   >
-  ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=4ldenis&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/4ldenis/dio-lab-open-source.git)
+  ## Repositórios <br>
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ATCo-alexandre&repo=projeto-cordel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Bragax23/projeto-) 
+ <br>
+    
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ATCo-alexandre&repo=projeto-android&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Bragax23/projeto-) 
+ <br>
+
+
 </div>
