@@ -16,7 +16,7 @@
 - 🙋‍♂️ Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMA, Campus Açailândia.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java e Python ]**.
 - 💡 Tenho interesse em ciclismo ou algo que envolva aventura e adrenalina.
-
+📖Atualmente, estou desenvolvendo meu Trabalho de Conclusão de Curso (TCC), que visa busca falar sobre o desperdício de água. O projeto busca criar soluções interativas para evitar o desperdício de água, como a criação de um jogo que busca ensinar a conservar a água.
 
 
   
@@ -104,13 +104,6 @@
            alt="linux"
          />
       </a>
-      </a>
-      <a href="https://github.com/Bragax23" target="_blank">
-        <img
-           src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-           alt="github"
-         />
-      </a>
     </p>
   </div>
 </section>
@@ -129,7 +122,7 @@
   
    <h3>GitHub Streak</h3>
   <img
-    src ="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
+    src ="https://github-readme-stats.vercel.app/api?username=Bragax23&theme=tokyonight"
     alt ="Bragax23"
   >
 </div>
