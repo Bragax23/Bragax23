@@ -129,7 +129,6 @@
   
   <h3>GitHub Streak</h3>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight"
-    alt="Bragax23"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight" alt="Bragax23"
   >
 </div>
