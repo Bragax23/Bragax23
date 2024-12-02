@@ -128,7 +128,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bragax23&show_icons=true&theme=tokyonight" alt="GitHub Stats of Bragax23">
   
   <h3>GitHub Streak</h3>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight" alt="Bragax23"
-  >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bragax23&theme=tokyonight" alt="Bragax23">
 </div>
