@@ -122,7 +122,7 @@
   
    <h3>GitHub Streak</h3>
   <img
-    src ="https://github-readme-stats.vercel.app/api?username=Bragax23&theme=tokyonight"
+    src ="https://github-readme-streak.vercel.app/api?username=Bragax23&theme=tokyonight"
     alt ="Bragax23"
   >
 </div>
