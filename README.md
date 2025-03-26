@@ -13,7 +13,7 @@
   Sobre mim 🧑‍💻
 </h1>
 
-- 🙋‍♂️ Me chamo Lucas Braga,tenho 16 anos e atualmente curso o 2° ano do ensino médio no IFMA, Campus Açailândia.
+- 🙋‍♂️ Me chamo Lucas Braga,tenho 17 anos e atualmente curso o 3° ano do ensino médio no IFMA, Campus Açailândia.
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, Java e Python ]**.
 - 💡 Tenho interesse em ciclismo ou algo que envolva aventura e adrenalina.
 - 📖 Atualmente, estou desenvolvendo meu Trabalho de Conclusão de Curso (TCC), que visa busca falar sobre o desperdício de água. O projeto busca criar soluções interativas para evitar o desperdício de água, como a criação de um jogo que busca ensinar a conservar a água.
